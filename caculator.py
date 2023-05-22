@@ -7,11 +7,5 @@ def subtract(a, b):
 def say_hello():
   print("hello")
 
-def divide(a, b):
-    return a/b
-
-def divide(c, d):
-    return c/d
-
-def divide(e, f):
-    return e/f
+def divide_new (a,b):
+  return a/b
