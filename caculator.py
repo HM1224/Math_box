@@ -12,3 +12,6 @@ def divide(a, b):
 
 def divide(c, d):
     return c/d
+
+def divide(e, f):
+    return e/f
